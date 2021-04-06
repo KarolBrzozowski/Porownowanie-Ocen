@@ -1,0 +1,372 @@
+numer		A	16		1	16
+nazwa 		A	12		17	28
+numer_pl	A	14		29	42
+data_u		I	8		43	50
+rasa		a	2		51	52
+numer_o		a	16		53	68
+nawa_o		A	12		69	80
+numer_o_pl	A	14		81	94
+rasa_o		a	2		95	96
+numer_m		A	16		97	112
+numer_m_pl	A	14		113	126
+rasa_m		a	2		127	128
+numer_o_m	A	16		129	144
+numer_o_m_pl	A	14		145	158
+rasa_o_m	a	2		159	160
+numer_m_m 	A	16		161	176
+numer_m_m_pl	a	14		177	190
+rasa_m_m	a	2		191	192
+status_b_w_pl	A	2		193	194
+buhaj_test	A	1		195	195
+okreg		A	2		196	197
+interbull_tofp	A	2		198	199
+interbull_stat	A	2		200	201
+birth_date_ofd	i	6		202	207
+oceniony_p	i	1		208	208
+proporcja_corek	i	3		209	211
+
+
+
+Lb_kraj_oc_mlk 	I	2
+
+mlkg_typ_o	a	1
+mlkg_lb_ob	I	5
+mlkg_lb_c	I	6
+mlkg_lb_c_ef	I	6
+mlkg_edc	I	6
+mlkg_pow	I	2
+mlkg_wh		I	7
+
+tlkg_typ_o	a	1
+tlkg_lb_ob	I	5
+tlkg_lb_c	I	6
+tlkg_lb_c_ef	I	6
+tlkg_edc	I	6
+tlkg_pow	I	2
+tlkg_wh		I	6
+
+tlpr_typ_o	a	1
+tlpr_lb_ob	I	5
+tlpr_lb_c	I	6
+tlpr_lb_c_ef	I	6
+tlpr_edc	I	6
+tlpr_pow	I	2
+tlpr_wh		I	6
+
+bikg_typ_o	a	1
+bikg_lb_ob	I	5
+bikg_lb_c	I	6
+bikg_lb_c_ef	I	6
+bikg_edc	I	6
+bikg_pow	I	2
+bikg_wh		I	6
+
+bipr_typ_o	a	1
+bipr_lb_ob	I	5
+bipr_lb_c	I	6
+bipr_lb_c_ef	I	6
+bipr_edc	I	6
+bipr_pow	I	2
+bipr_wh		I	6
+
+koso_typ_o	a	1
+koso_lb_ob	I	5
+koso_lb_c	I	6
+koso_lb_c_ef	I	6
+koso_edc	I	6
+koso_pow	I	2
+koso_wh		I	6
+
+
+
+
+Lb_kraj_oc_pok	I	2
+
+
+kal_typ_o	a	1
+kal_lb_ob	I	5
+kal_lb_c	I	6
+kal_edc		I	6
+kal_pow		I	2
+kal_wh		I	6
+
+tib_typ_o	a	1
+tib_lb_ob	I	5
+tib_lb_c	I	6
+tib_edc		I	6
+tib_pow		I	2
+tib_wh		I	6
+
+nig_typ_o	a	1
+nig_lb_ob	I	5
+nig_lb_c	I	6
+nig_edc		I	6
+nig_pow		I	2
+nig_wh		I	6
+
+oow_typ_o	a	1
+oow_lb_ob	I	5
+oow_lb_c	I	6
+oow_edc		I	6
+oow_pow		I	2
+oow_wh		I	6
+
+bo_typ_o	a	1
+bo_lb_ob	I	5
+bo_lb_c		I	6
+bo_edc		I	6
+bo_pow		I	2
+bo_wh		I	6
+
+wwk_typ_o	a	1
+wwk_lb_ob	I	5
+wwk_lb_c	I	6
+wwk_edc		I	6
+wwk_pow		I	2
+wwk_wh		I	6
+
+gt_typ_o	a	1
+gt_lb_ob	I	5
+gt_lb_c		I	6
+gt_edc		I	6
+gt_pow		I	2
+gt_wh		I	6
+
+skp_typ_o	a	1
+skp_lb_ob	I	5
+skp_lb_c	I	6
+skp_edc		I	6
+skp_pow		I	2
+skp_wh		I	6
+
+uz_typ_o	a	1
+uz_lb_ob	I	5
+uz_lb_c		I	6
+uz_edc		I	6
+uz_pow		I	2
+uz_wh		I	6
+
+sz_typ_o	a	1
+sz_lb_ob	I	5
+sz_lb_c		I	6
+sz_edc		I	6
+sz_pow		I	2
+sz_wh		I	6
+
+ntwzb_typ_o	a	1
+ntwzb_lb_ob	I	5
+ntwzb_lb_c	I	6
+ntwzb_edc	I	6
+ntwzb_pow	I	2
+ntwzb_wh	I	6
+
+r_typ_o		a	1
+r_lb_ob		I	5
+r_lb_c		I	6
+r_edc		I	6
+r_pow		I	2
+r_wh		I	6
+
+ntwzt_typ_o	a	1
+ntwzt_lb_ob	I	5
+ntwzt_lb_c	I	6
+ntwzt_edc	I	6
+ntwzt_pow	I	2
+ntwzt_wh	I	6
+
+zpw_typ_o	a	1
+zpw_lb_ob	I	5
+zpw_lb_c	I	6
+zpw_edc		I	6
+zpw_pow		I	2
+zpw_wh		I	6
+
+ztw_typ_o	a	1
+ztw_lb_ob	I	5
+ztw_lb_c	I	6
+ztw_edc		I	6
+ztw_pow		I	2
+ztw_wh		I	6
+
+wsw_typ_o	a	1
+wsw_lb_ob	I	5
+wsw_lb_c	I	6
+wsw_edc		I	6
+wsw_pow		I	2
+wsw_wh		I	6
+
+pw_typ_o	a	1
+pw_lb_ob	I	5
+pw_lb_c		I	6
+pw_edc		I	6
+pw_pow		I	2
+pw_wh		I	6
+
+sw_typ_o	a	1
+sw_lb_ob	I	5
+sw_lb_c		I	6
+sw_edc		I	6
+sw_pow		I	2
+sw_wh		I	6
+
+us_typ_o	a	1
+us_lb_ob	I	5
+us_lb_c		I	6
+us_edc		I	6
+us_pow		I	2
+us_wh		I	6
+
+ds_typ_o	a	1
+ds_lb_ob	I	5
+ds_lb_c		I	6
+ds_edc		I	6
+ds_pow		I	2
+ds_wh		I	6
+
+ust_typ_o	a	1
+ust_lb_ob	I	5
+ust_lb_c	I	6
+ust_edc		I	6
+ust_pow		I	2
+ust_wh		I	6
+
+chm_typ_o	a	1
+chm_lb_ob	I	5
+chm_lb_c	I	6
+chm_edc		I	6
+chm_pow		I	2
+chm_wh		I	6
+
+
+
+
+
+wnpuj_typ_o	a	1
+wnpuj_lb_ob	I	5
+wnpuj_lb_c	I	6
+wnpuj_edc	I	6
+wnpuj_pow	I	2
+wnpuj_wh	I	6
+
+wnpuk_typ_o	a	1
+wnpuk_lb_ob	I	5
+wnpuk_lb_c	I	6
+wnpuk_edc	I	6
+wnpuk_pow	I	2
+wnpuk_wh	I	6
+
+pp_typ_o	a	1
+pp_lb_ob	I	5
+pp_lb_c		I	6
+pp_edc		I	6
+pp_pow		I	2
+pp_wh		I	6
+
+om_typ_o	a	1
+om_lb_ob	I	5
+om_lb_c		I	6
+om_edc		I	6
+om_pow		I	2
+om_wh		I	6
+
+
+
+dcb_loc		I	5
+dcb_ps		I	5
+dcb_pl		I	5
+dcb_pt		I	5
+dcb_Poro	I	5
+dcb_por		I	5
+dcb_cc		I	5
+		
+dcb_luc		I	5
+dcb_zu		I	5
+dcb_mu		I	5
+		
+db_loc		I	5
+db_ps		I	5
+db_pl		I	5
+db_pt		I	5
+db_Poro	I	5
+db_por		I	5
+db_cc		I	5
+		
+db_luc		I	5
+db_zu		I	5
+db_mu		I	5
+		
+
+		
+			
+przezywalonsc_to	a	1
+przezywalonsc_p		I	2
+przezywalonsc_wh	I	6
+		
+		
+		
+indeksy_ips 	I	5
+indeksy_ppr 	I	5
+indeksy_pk 	I	5
+indeksy_ptib 	I	5
+indeksy_pnir 	I	5
+indeksy_pw 	I	5
+indeksy_pop 	I	5
+indeksy_ppl 	I	5
+indeksy_ipf 	I	5
+
+
+lakg_typ_oceny;	I	1
+lakg_lo;	I	5
+lakg_lc;	I	6
+lakg_po;	I	2
+lakg_wh;	I	6
+lapr_typ_oceny;	I	1
+lapr_lo;	I	5
+lapr_lc;	I	6
+lapr_po;	I	2
+lapr_wh		I	6
+
+
+udoj_msp_typ_oceny;	I	1
+udoj_msp_lo;		I	5
+udoj_msp_lc;		I	6
+udoj_msp_po;		I	2
+udoj_msp_wh;		I	6
+udoj_tem_typ_oceny;	I	1
+udoj_tem_lo;		I	5
+udoj_tem_lc;		I	6
+udoj_tem_po;		I	2
+udoj_tem_wh		I	6
+
+
+por_dce_typ_oceny;	I	1
+por_dce_lo;		I	5
+por_dce_lc;		I	6
+por_dce_po;		I	2
+por_dce_wh;		I	6
+por_mce_typ_oceny;	I	1
+por_mce_lo;		I	5
+por_mce_lc;		I	6
+por_mce_po;		I	2
+por_mce_wh;		I	6
+por_dsb_typ_oceny;	I	1
+por_dsb_lo;		I	5
+por_dsb_lc;		I	6
+por_dsb_po;		I	2
+por_dsb_wh;		I	6
+por_msb_typ_oceny;	I	1
+por_msb_lo;		I	5
+por_msb_lc;		I	6
+por_msb_po;		I	2
+por_msb_wh;		I	6
+
+lok_typ_oceny;		I	1
+lok_lo;			I	5
+lok_lc;			I	6
+lok_po;			I	2
+lok_wh;			I	6
+kon_typ_oceny;		I	1
+kon_lo;			I	5
+kon_lc;			I	6
+kon_po;			I	2
+kon_wh			I	6
